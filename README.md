@@ -23,19 +23,19 @@
 
   
 
-  ![](6/screenshoot/1.png)
+  ![](6/screenshot/1.png)
 
   
 
-  ![](6/screenshoot/2.png)
+  ![](6/screenshot/2.png)
 
   
   
-  ![](6/screenshoot/3.png)
+  ![](6/screenshot/3.png)
   
   
   
-  ![](6/screenshoot/4.png)
+  ![](6/screenshot/4.png)
   
 ---
 
