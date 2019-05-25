@@ -21,21 +21,22 @@
 
   
 
-  - 
-
-  ![1](6/screenshoot/1.png)
-
   
 
-  ![2](6/screenshoot/2.png)
+  ![](6/screenshoot/1.png)
+
+  
+
+  ![](6/screenshoot/2.png)
 
   
   
-  ![3](6/screenshoot/3.png)
+  ![](6/screenshoot/3.png)
   
   
   
-  ![4](6/screenshoot/4.png)
+  ![](6/screenshoot/4.png)
+  
 ---
 
   
