@@ -1,0 +1,29 @@
+body {
+    background-color: aqua;
+}
+
+.container {
+    background-color: azure;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+.h1-fir {
+    text-transform: capitalize;
+}
+
+.programmer-detail {
+    margin-left: 15px;
+}
+
+.skillform {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+#name {
+    margin-top: 10px;
+}
